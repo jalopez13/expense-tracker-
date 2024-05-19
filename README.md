@@ -4,3 +4,7 @@
 
 - bun run start
 - bun run dev
+
+### TODO:
+
+- deploy both apps
